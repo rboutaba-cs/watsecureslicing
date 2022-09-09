@@ -39,13 +39,13 @@ Network slicing partitions the physical network into several fit-for-purpose vir
   </div>
 </div>
 <div class="row">
-  <div class="img1">
+  <div class="img2">
     <img src="assets/noviflow-logo.webp" alt="Noviflow"/>
   </div>
   <div class="img2">
     <img src="assets/rockport-logo.png" alt="Rockport"/>
   </div>
-  <div class="img2">
+  <div class="img1">
     <img src="assets/blackberry-logo.png" alt="Blackberry"/>
   </div>
 </div>
