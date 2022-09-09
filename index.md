@@ -28,25 +28,25 @@ Network slicing partitions the physical network into several fit-for-purpose vir
 
 ## Sponsors and Partners
 <div class="row">
-  <div class="img1">
-    <img src="assets/logos/dod-logo.png" alt="Department of Defense"/>
+  <div class="dod">
+    <img src="assets/dod-logo.png" alt="Department of Defense"/>
   </div>
-  <div class="img2">
-    <img src="assets/logos/ets-logo.png" alt="ETS"/>
+  <div class="ets">
+    <img src="assets/ets-logo.png" alt="ETS"/>
   </div>
-  <div class="img2">
-    <img src="assets/logos/regina-logo.png" alt="University of Regina"/>
+  <div class="regina">
+    <img src="assets/regina-logo.png" alt="University of Regina"/>
   </div>
 </div>
-<div class="row">
+<div class="noviflow">
   <div class="img2">
-    <img src="assets/logos/noviflow-logo.webp" alt="Noviflow"/>
+    <img src="assets/noviflow-logo.webp" alt="Noviflow"/>
   </div>
-  <div class="img2">
-    <img src="assets/logos//rockport-logo.png" alt="Rockport"/>
+  <div class="rockport">
+    <img src="assets//rockport-logo.png" alt="Rockport"/>
   </div>
-  <div class="img1">
-    <img src="assets/logos/blackberry-logo.png" alt="Blackberry"/>
+  <div class="blackberry">
+    <img src="assets/blackberry-logo.png" alt="Blackberry"/>
   </div>
 </div>
 
