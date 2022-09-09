@@ -38,8 +38,8 @@ Network slicing partitions the physical network into several fit-for-purpose vir
     <img src="assets/regina-logo.png" alt="University of Regina"/>
   </div>
 </div>
-<div class="noviflow">
-  <div class="img2">
+<div class="row">
+  <div class="noviflow">
     <img src="assets/noviflow-logo.png" alt="Noviflow"/>
   </div>
   <div class="rockport">
