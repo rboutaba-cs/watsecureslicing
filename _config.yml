@@ -25,6 +25,9 @@ description: ""
 show_downloads: false
 google_analytics: ""
 
+baseurl: "/watsecureslicing"
+url: "https://rboutaba-cs.github.io"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
