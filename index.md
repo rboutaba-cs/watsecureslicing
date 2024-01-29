@@ -24,7 +24,10 @@ Network slicing partitions the physical network into several fit-for-purpose vir
 - Building a 5G MEC platform to facilitate telemetry, AI-based analytics, on-demand deployment of security functions and their orchestration at the network edge. The MEC will improve the performance and security of the 5G network compared to a more traditional distant cloud-based solution, as well as allow for quick deployments in many scenarios from a mobile Forward Operating Base to a large-scale multi-nation deployment hosting secure applications from many different organizations. The MEC will also facilitate delay and latency sensitive applications, such as haptic, virtual or artificial reality applications for simulation, training and operational use, for many organizations simultaneously and securely.
 
 ## Related Publications
-- B. Zhang, P. Zeinaty, N. Limam, R. Boutaba. Mitigating Signaling Storms in 5G with Blockchain-assisted 5GAKA. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30 - November 2, 2023.
+
+- B. Zhang, P. Hu, A. A. Azirani, M. A. Salahuddin, D. Barradas, N. Limam, R. Boutaba. Secure and Efficient Group Handover Protocol in 5G Non-Terrestrial Networks. IEEE International Conference on Communications (ICC), Denver, CO, USA. June 9-13, 2024. Accepted January 2024.
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/ZhangCNSM23.pdf) B. Zhang, P. Zeinaty, N. Limam, R. Boutaba. Mitigating Signaling Storms in 5G with Blockchain-assisted 5GAKA. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30 - November 2, 2023.
 
 
 ## Sponsors and Partners
