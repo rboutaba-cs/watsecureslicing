@@ -37,12 +37,6 @@ Network slicing partitions the physical network into several fit-for-purpose vir
 
 - B. Bousalem, V. F. Silva, A. Boualouache, R. Langar, S. Cherrier. Deep Learning-based Smart Radio Jamming Attacks Detection on 5G V2I/V2N Communications. IEEE Global Communications Conference (GLOBECOM), Kuala Lumpur, Malaysia, December 4-8, 2023.
 
-- Repository of code and data for early detection of intrusion in SDN, [Online] https://github.com/shamimtowhid/Early-Intrusion-Detection-in-SDN
-
-- Jamming attack dataset, [Online] https://onedrive.live.com/?authkey=%21APH19BvwwVpcVkM&id=DDE3E7BF6DCF58F1% 21220245&cid=DDE3E7BF6DCF58F1
-
-- DoS/DDoS attack dataset, [Online] https://gitlab.com/sajidkhan382067/ddos-data-sets-2022
-
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Journals/2023/PourhamadiTDSC2022.pdf) V. Pourahmadi, H. A. Alameddine, M. A. Salahuddin, R. Boutaba. Spotting Anomalies at the Edge: Outlier Exposure-based Cross-silo Federated Learning for DDoS Detection. IEEE Transactions on Dependable and Secure Computing (TDSC), vol. 20(5), pp. 4002-4015, September 2023.
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://uregina.ca/~nss373/papers/Early-detection-SDN.pdf) M. S. Towhid, N. Shahriar. Early detection of intrusion in SDN. IEEE/IFIP Network Operations and Management Symposium (NOMS), Miami, FL, USA, May 8-12, 2023.
@@ -50,6 +44,13 @@ Network slicing partitions the physical network into several fit-for-purpose vir
 - B. Bousalem, V. F. Silva, R. Langar, S. Cherrier. DDoS Attacks Detection and Mitigation in 5G and Beyond Networks: A Deep Learning-based Approach. IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, December 4-8, 2022.
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://uregina.ca/~nss373/papers/slice-secure.pdf) M. S. Khan, B. Farzaneh, N. Shahriar, N. Saha, R. Boutaba. Slicesecure: Impact and detection of DoS/DDoS attacks on 5G network slices. IEEE Future Networks World Forum (FNWF), Montreal, Canada, October 12-14, 2022.
+
+## Datasets
+- [Repository of code and data for early detection of intrusion in SDN](https://github.com/shamimtowhid/Early-Intrusion-Detection-in-SDN)
+
+- [Jamming attack dataset](https://onedrive.live.com/?authkey=%21APH19BvwwVpcVkM&id=DDE3E7BF6DCF58F1%)
+
+- [DoS/DDoS attack dataset](https://gitlab.com/sajidkhan382067/ddos-data-sets-2022)
 
 
 ## Sponsors and Partners
