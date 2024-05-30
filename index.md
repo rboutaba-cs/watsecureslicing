@@ -25,9 +25,31 @@ Network slicing partitions the physical network into several fit-for-purpose vir
 
 ## Related Publications
 
-- B. Zhang, P. Hu, A. A. Azirani, M. A. Salahuddin, D. Barradas, N. Limam, R. Boutaba. Secure and Efficient Group Handover Protocol in 5G Non-Terrestrial Networks. IEEE International Conference on Communications (ICC), Denver, CO, USA. June 9-13, 2024. Accepted January 2024.
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://uregina.ca/~nss373/papers/CNC_2024.pdf) M. S.Towhid, N. S. Khan, M. M. Hasan, N. Shahriar. Towards Effective Network Intrusion Detection in Imbalanced Datasets: A Hierarchical Approach. IEEE International Conference on Computing, Networking and Communications (ICNC), Big Island, Hawaii, USA, February 19-22, 2024.
+
+- F. Alalyan, B. Bousalem, W. Jaafar, R. Langar. Secure Peer-to-Peer Federated Learning for Efficient Cyberattacks Detection in 5G and Beyond Networks. IEEE International Conference on Communications (ICC), Denver, CO, USA, June 9-13, 2024.
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/ZhangCNSM23.pdf) B. Zhang, P. Zeinaty, N. Limam, R. Boutaba. Mitigating Signaling Storms in 5G with Blockchain-assisted 5GAKA. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30 - November 2, 2023.
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://uregina.ca/~nss373/papers/Transfer_Learning_CNSM_2023.pdf) B. Farzaneh, N. Shahriar, A. H. Al Muktadir, M. S. Towhid. "DTL-IDS: Deep Transfer Learning-based Intrusion Detection System in 5G Networks," IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30-November 2, 2023.
+
+- B. Bousalem, M. A. Sakka, V. F. Silva, W. Jaafar, A. B. Letaifa, R. Langar. DDoS Attacks Mitigation in 5G-V2X Networks: A Reinforcement Learning-based Approach. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30-November 2, 2023.
+
+- B. Bousalem, V. F. Silva, A. Boualouache, R. Langar, S. Cherrier. Deep Learning-based Smart Radio Jamming Attacks Detection on 5G V2I/V2N Communications. IEEE Global Communications Conference (GLOBECOM), Kuala Lumpur, Malaysia, December 4-8, 2023.
+
+- Repository of code and data for early detection of intrusion in SDN, [Online] https://github.com/shamimtowhid/Early-Intrusion-Detection-in-SDN
+
+- Jamming attack dataset, [Online] https://onedrive.live.com/?authkey=%21APH19BvwwVpcVkM&id=DDE3E7BF6DCF58F1% 21220245&cid=DDE3E7BF6DCF58F1
+
+- DoS/DDoS attack dataset, [Online] https://gitlab.com/sajidkhan382067/ddos-data-sets-2022
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Journals/2023/PourhamadiTDSC2022.pdf) V. Pourahmadi, H. A. Alameddine, M. A. Salahuddin, R. Boutaba. Spotting Anomalies at the Edge: Outlier Exposure-based Cross-silo Federated Learning for DDoS Detection. IEEE Transactions on Dependable and Secure Computing (TDSC), vol. 20(5), pp. 4002-4015, September 2023.
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://uregina.ca/~nss373/papers/Early-detection-SDN.pdf) M. S. Towhid, N. Shahriar. Early detection of intrusion in SDN. IEEE/IFIP Network Operations and Management Symposium (NOMS), Miami, FL, USA, May 8-12, 2023.
+
+- B. Bousalem, V. F. Silva, R. Langar, S. Cherrier. DDoS Attacks Detection and Mitigation in 5G and Beyond Networks: A Deep Learning-based Approach. IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, December 4-8, 2022.
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://uregina.ca/~nss373/papers/slice-secure.pdf) M. S. Khan, B. Farzaneh, N. Shahriar, N. Saha, R. Boutaba. Slicesecure: Impact and detection of DoS/DDoS attacks on 5G network slices. IEEE Future Networks World Forum (FNWF), Montreal, Canada, October 12-14, 2022.
 
 
 ## Sponsors and Partners
@@ -47,10 +69,7 @@ Network slicing partitions the physical network into several fit-for-purpose vir
     <img src="assets/noviflow-logo.png" alt="Noviflow"/>
   </div>
   <div class="rockport">
-    <img src="assets/rockport-logo.png" alt="Rockport"/>
-  </div>
-  <div class="blackberry">
-    <img src="assets/blackberry-logo.png" alt="Blackberry"/>
+    <img src="assets/cerio.png" alt="Rockport"/>
   </div>
 </div>
 
