@@ -72,7 +72,7 @@ Network slicing partitions the physical network into several fit-for-purpose vir
   <div class="rockport">
     <img src="assets/cerio.jpeg" alt="Rockport"/>
   </div>
-  <div class="noviflow">
+  <div class="rogers">
     <img src="assets/rogers-logo.jpg" alt="Rogers"/>
   </div>
 </div>
