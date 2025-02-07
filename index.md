@@ -25,6 +25,24 @@ Network slicing partitions the physical network into several fit-for-purpose vir
 
 ## Related Publications
 
+- M.A. Sakka et al., "Predicting Cyberattack Duration in Next Generation Networks: A Novel Transformer-based Approach", IEEE ICC 2025, Montreal, QC, Canada, Jun. 2025.
+
+- B. Bousalem et al., "Deep Learning-based DDoS Attacks Detection and Mitigation in 5G-V2X Networks", IEEE GIIS 2025, Dubai, UAE, Feb. 2025. (Demo Paper).
+
+- M. Awad et al., "xApps for DDoS Attacks Detection and Mitigation in 5G-V2X O-RAN Networks", IEEE CIoT 2024, Montreal, QC, Canada, Oct. 2024. (Demo Paper).
+
+- K. Snoussi et al., "S4HI: A Novel Learning-based Human Identification Method from Behavioral Data", IEEE CIoT 2024, Montreal, QC, Canada, Oct. 2024. (Best Student Paper Award).
+
+- M. Ait-Yahia et al. "On the Joint Placement of Blockchain and Users’ Virtualized Services in the Internet of Vehicles", IEEE CIoT 2024, Montreal, QC, Canada, Oct. 2024.
+
+- F. Alalyan et al. , "Secure Distributed Federated Learning for Cyberattacks Detection in B5G Open Radio Access Networks", IEEE Open Journal of the Communications Society, in press, accepted in Dec. 2024
+
+- B. Farzaneh et al., DTL-5G: Deep transfer learning-based DDoS attack detection in 5G and beyond networks. Elsevier Computer Communications, 228, p.107927, 2024.
+
+- A. Abouelkhair et al., “5GProvGen: 5G Provenance Dataset Generation Framework”, IEEE/IFIP IEEE/ACM/IFIP Conference on Network and Service Management (CNSM), 2024
+
+- F. Alalyan et al. Secure Peer-to-Peer Federated Learning for Efficient Cyberattacks Detection in 5G and Beyond Networks,” IEEE ICC 2024
+
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://uregina.ca/~nss373/papers/CNC_2024.pdf) M. S.Towhid, N. S. Khan, M. M. Hasan, N. Shahriar. Towards Effective Network Intrusion Detection in Imbalanced Datasets: A Hierarchical Approach. IEEE International Conference on Computing, Networking and Communications (ICNC), Big Island, Hawaii, USA, February 19-22, 2024.
 
 - F. Alalyan, B. Bousalem, W. Jaafar, R. Langar. Secure Peer-to-Peer Federated Learning for Efficient Cyberattacks Detection in 5G and Beyond Networks. IEEE International Conference on Communications (ICC), Denver, CO, USA, June 9-13, 2024.
@@ -46,6 +64,8 @@ Network slicing partitions the physical network into several fit-for-purpose vir
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://uregina.ca/~nss373/papers/slice-secure.pdf) M. S. Khan, B. Farzaneh, N. Shahriar, N. Saha, R. Boutaba. Slicesecure: Impact and detection of DoS/DDoS attacks on 5G network slices. IEEE Future Networks World Forum (FNWF), Montreal, Canada, October 12-14, 2022.
 
 ## Datasets
+
+- [Repository of code and dataset for 5G-ProvGen](https://github.com/abouelkhair5/5GProvGen)
 - [Repository of code and data for early detection of intrusion in SDN](https://github.com/shamimtowhid/Early-Intrusion-Detection-in-SDN)
 
 - [Jamming attack dataset](https://onedrive.live.com/?authkey=%21APH19BvwwVpcVkM&id=DDE3E7BF6DCF58F1%)
